@@ -64,6 +64,13 @@ class ViewController: UIViewController {
                 expressionLabel.text = "Error"
                 expressionText = ""
             }
+       
+            
+            
+            
+            
+            
+            
             
         case "AC":
             expressionText = ""
